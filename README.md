@@ -1,0 +1,2 @@
+# Negomi
+CSRF_SynchronizerTokenPattern
